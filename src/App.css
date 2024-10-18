@@ -1,0 +1,17 @@
+.navbar-brands{
+  color:white !important;
+  font-family:  cursive;
+}
+nav {
+  background-color: #88685e;
+}
+.nav-link{
+  color: white !important;  
+}
+
+.Bgimage{
+  background-image: url('./BG.jpg');
+  background-size: cover;
+  display: flex;
+  
+}
